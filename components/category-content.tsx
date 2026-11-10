@@ -28,8 +28,8 @@ const categoryNames: Record<string, string> = {
   mangsho: "মাংস",
   tel: "তেল",
   moshla: "মসলা",
-  // "dim-o-dudh": "ডিম-দুধ",
-  // "nitto-ponno": "নিত্যপণ্য",
+  "dim-o-dudh": "ডিম-দুধ",
+  "nitto-ponno": "নিত্যপণ্য",
   all: "সব পণ্য",
 };
 
