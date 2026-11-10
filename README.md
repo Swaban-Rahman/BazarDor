@@ -289,4 +289,5 @@ Prices and market information depend on the configured upstream API. When usable
 
 - **Project:** বাজার দর (BazarDor)
 - **GitHub repository:** [https://github.com/Swaban-Rahman/Bazar_Dor](https://github.com/Swaban-Rahman/Bazar_Dor)
-- **Live website:** `https://bazardor-six-wheat.vercel.app/` 
+- **Live website:** [https://bazardor-six-wheat.vercel.app/](https://bazardor-six-wheat.vercel.app/)
+
