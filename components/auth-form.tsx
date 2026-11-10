@@ -219,7 +219,7 @@ export default function AuthForm({ mode }: { mode: Mode }) {
         <form onSubmit={submit} className="auth-fields" noValidate>
           {signup && (
             <label className="auth-field-label">
-              {/* <span>নাম</span> */}
+              <span>নাম</span>
               <input
                 className="auth-input"
                 autoComplete="name"
