@@ -13,7 +13,7 @@ const categoryEmojis: Record<string, string> = {
   chal: "🍚",
   dal: "🫘",
   machh: "🐟",
-  mangsho: "🍗",
+  mangsho: "🍗",  
   tel: "🫗",
   moshla: "🌶️",
   "dim-o-dudh": "🥚",
