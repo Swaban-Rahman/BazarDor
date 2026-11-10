@@ -1230,10 +1230,10 @@ export async function getProductsByCategory(slug: string): Promise<Product[]> {
   if (slug === "all" || slug === "সব-পণ্য") return getProducts();
   const isRice = isRiceCategory(slug);
 
-  let payload = await fetchJson(
+  const payload = await fetchJson(
     `${API_BASE}/products?category=${encodeURIComponent(slug)}`,
   );
-  let remote = payload
+  const remote = payload
     ? unwrapList(payload)
         .map(mapProduct)
         .filter((item): item is Product => item !== null)
